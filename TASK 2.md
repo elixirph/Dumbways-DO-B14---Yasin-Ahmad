@@ -32,13 +32,10 @@ Kemudian pastikan jika aplikasi apache telah berjalan dengan command sudo system
 
 ![Screenshot (84)](https://user-images.githubusercontent.com/117638290/202685342-e43c5188-85e1-413a-b4c8-2e457cb054da.png)
 
-Terakhir inputkan command hostname –I
+Terakhir, untuk melihat ip inputkan command  hostname –I
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/117638290/202685993-39aeaa0a-1960-4831-9d30-0465f03a2f3a.png)
 
 Lalu copy ip tersebut & salin ke dalam browser kalian, maka hasilnya akan seperti ini
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/117638290/202686363-d932cce4-f9a5-45a9-8010-4c3ea6ff5d75.png)
-
-
-untuk melihat ip & silahkan copykan alamat ip ke web browser
