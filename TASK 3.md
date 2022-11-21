@@ -57,10 +57,43 @@ D. Deploy Python dengan menampilkan nama masing-masing
 2. Selanjutnya masuk ke direktori tersebut dengan command cd my-app-python
 3. Install aplikasinya dengan command sudo apt install python3
 4. kemudian cek versi dengan command python3 --version
-5. 
+5. selanjutnya kita unduh package manager dari python itu sendiri seperti halnya npm, inputkan dengan command sudo apt install python3 pip
+Ikuti seperti gambar di bawah ini
+
+![Screenshot from 2022-11-19 21-11-25](https://user-images.githubusercontent.com/117638290/202938550-4e06bb78-6308-4a43-9cb2-dc3e8b75dc4b.png)
+
+6. kemudian inputkan untuk frameworknya dengan command pip install flask
+
+![Screenshot from 2022-11-19 21-11-54](https://user-images.githubusercontent.com/117638290/202938917-569bc27f-bd43-4f68-8d1d-7d817590c8ca.png)
+
+7. selanjutnya kita buat file pythonnya, saya memberi nama filenya pyton & isikan sesuai gambar di bawah ini untuk menampilkan nama kita, jadi saya inputkan command nano pyton.py
+
+![Screenshot from 2022-11-19 21-21-32](https://user-images.githubusercontent.com/117638290/202939245-40022e2c-1476-4cf7-9982-35001081ad36.png)
+
+8. Terakhir jalankan apilikasi tersebut dengan command pyhton3 pyton.py. lalu buka browser dengan link localhost:5000 karena python bekerja pada port tersebut
+
+![Screenshot from 2022-11-19 21-14-55](https://user-images.githubusercontent.com/117638290/202939671-d383d7bf-01bd-4620-bbfd-976eb00b5254.png)
 
 
+E. Menjalankan localtunnel untuk aplikasi wayshub-frontend 
 
+1. karena kita sebelumnya telah melakukan instalasi pada aplikasi tersebut, jadi sekarang kita hanya menjalankannya dengan command lt --port 3000 --subdomain
+2. setelah mendapatkan urlnya copy & pastekan dibrowser kalian, lakukan seperti gambar dibawah ini
+
+![Screenshot (106)](https://user-images.githubusercontent.com/117638290/202942663-c6b6b174-78fa-418b-bcd6-c7a1d36d8df3.png)
+
+
+F. Menjalankan semua aplikasi dengan PM2
+
+1. karena kita telah melakukan instalasi pada ketiga aplikasi tersebut, kita tinggal menginstall pm2 lalu menjalankan masing-masing aplikasinya
+2. Install PM2 terlebih dahulu dengan command npm install -g pm2
+3. setelah itu jalankan aplikasi masing-masing
+untuk npm nodejs dengan command pm2 start npm -- start
+untuk golang dengan command pm2 start app.go
+untuk python dengan command pm2 start pyton.py
+4. hasilnya akan seprti gambar dibawah ini
+
+![Screenshot (110)](https://user-images.githubusercontent.com/117638290/202943534-e473f5a8-6df6-4b53-9a59-778ee9e470f7.png)
 
 
 
