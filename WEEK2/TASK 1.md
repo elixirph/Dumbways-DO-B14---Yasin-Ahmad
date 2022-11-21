@@ -1,4 +1,5 @@
 A. Definisi CI/CD 
+
 CI/CD adalah esensi dari DevOps yaitu penghubung antara tim developer dan tim operations dalam melakukan integrasi kode, pengujian / testing, dan perilisan aplikasi secara otomatis. CI/CD terbagi menjadi 3 tahap yaitu Continuous Integration (CI), Continuous Delivery (CD), dan Continuous Deployment.
 
 B. Fork repository Dumbflix
