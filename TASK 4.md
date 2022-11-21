@@ -61,6 +61,12 @@ git branch production
 ![Screenshot (121)](https://user-images.githubusercontent.com/117638290/202956788-511ac32e-c1b0-4dbe-9187-942da224909c.png)
 
 E. 3 command git lainnya
+
 git diff (menampilkan semua konflik yang ada)
+
 git log (melihat track pada daftar commit yang ada)
+
 git show (untuk menampilkan informasi pada objek git)
+
+![Screenshot (126)](https://user-images.githubusercontent.com/117638290/202959758-a58a9f3f-b1b3-4115-9afd-052b4a6f5fd6.png)
+
