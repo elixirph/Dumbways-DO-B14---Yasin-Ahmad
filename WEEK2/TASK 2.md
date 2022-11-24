@@ -72,6 +72,3 @@ F. Buat script instalasi node version manager menggunakan BASH
 buat file script baru dengan command nano node.sh kemudian inputkan command-command tersebut
 ![Screenshot (204)](https://user-images.githubusercontent.com/117638290/203815020-6e13bfd7-f55f-45e9-b3b0-f51cbb86e651.png)
 ![Screenshot (203)](https://user-images.githubusercontent.com/117638290/203815058-e392e682-22f6-450a-870d-40b99e26c1eb.png)
-
-
-
