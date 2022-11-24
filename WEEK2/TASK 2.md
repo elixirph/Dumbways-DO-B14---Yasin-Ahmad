@@ -1,7 +1,9 @@
 MANAGE SERVER WITH TERMINAL
 
 A. Perbedaan antara Shell dan BASH
+
 Shell : di windows sebagai media untuk ragam kontrol file, lebih sederhana & cepat
+
 Bash : untuk linux/unix sebgai penerjemah
 
 
