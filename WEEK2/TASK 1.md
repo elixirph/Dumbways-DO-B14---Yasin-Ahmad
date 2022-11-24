@@ -57,5 +57,26 @@ lebih jelasnya silahkan lihat pada gambar dibawah ini
 
 D. Deploy 2 branch yang berbeda
 
+1. Pertama masuk ke repositori yang ingin di deploy dengan 2 branch yang berbeda, kemudian klik branches, maka tampilannya akan mennjadi seperti ini
+
+![Screenshot (175)](https://user-images.githubusercontent.com/117638290/203780566-936e952f-248d-4d6e-b635-fe4e06b753f0.png)
+
+2. Selanjutnya klik new branch & create branch 
+
+![Screenshot (176)](https://user-images.githubusercontent.com/117638290/203780771-740bde0b-e97c-4e0d-82cd-cc391a0805a2.png)
+
+3. Masuk ke pages cloudflare, ke page dumbflix & seting kemudian pilih builds & deployment lalu klik configure preview development 
+
+![Screenshot (184)](https://user-images.githubusercontent.com/117638290/203783656-5ffdb189-b4d3-4dbf-8797-513e3386ad30.png)
+
+4. Pilih custom branches & tambahkan yang telah di create sebelumnyan lalu save
+
+![Screenshot (185)](https://user-images.githubusercontent.com/117638290/203783847-7ead3dd9-e515-442a-b0ee-569ba183e452.png)
+
+5. hasilnya akan seperti ini
+
+![Screenshot (180)](https://user-images.githubusercontent.com/117638290/203784179-dc63c6ed-883f-4baf-948b-da2bd3624aca.png)
+![Screenshot (186)](https://user-images.githubusercontent.com/117638290/203784278-7fabfe9b-0b89-4390-90c2-6003abbc6303.png)
+
 
 
